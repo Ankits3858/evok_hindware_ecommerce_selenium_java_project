@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+     <suite name="All Test Suite" parallel="tests">
+    <!-- <listeners>
+        <listener class-name="Listeners.listeners">
+        </listener>
+    </listeners> -->
+    <test name="h">
+        <classes>
+
+            <class name="Accesories_Decor_Page_Test.Accesories_Decor_Page_Test003"/>
+            <class name="Accesories_Decor_Page_Test.Accesories_Decor_Page_Test005"/>
+            <class name="Accesories_Decor_Page_Test.Accesories_Decor_Page_Test006"/>
+
+            <class name="Bed_Room_Page_Test.Bed_Room_Page_Test003"/>
+            <class name="Bed_Room_Page_Test.Bed_Room_Page_Test004"/>
+            <class name="Bed_Room_Page_Test.Bed_Room_Page_Test005"/>
+            <class name="Bed_Room_Page_Test.Bed_Room_Page_Test006"/>
+            <class name="Bed_Room_Page_Test.Bed_Room_Page_Test007"/>
+
+            <class name="Chairs_page_Test.Chairs_page_Test003"/>
+            <class name="Chairs_page_Test.Chairs_page_Test004"/>
+            <class name="Chairs_page_Test.Chairs_Page_Test005"/>
+            <class name="Chairs_page_Test.Chairs_page_Test006"/>
+
+
+
+
+            <class name="Dining_Page_Test.Dining_Page_Test003"/>
+            <class name="Dining_Page_Test.Dining_Page_Test004"/>
+            <class name="Dining_Page_Test.Dining_Page_Test005"/>
+            <class name="Dining_Page_Test.Dining_Page_Test006"/>
+
+
+            <class name="Hindware_Page_Test.Hindware_Page_Test003"/>
+            <class name="Hindware_Page_Test.Hindware_Page_Test004"/>
+            <class name="Hindware_Page_Test.Hindware_Page_Test005"/>
+            <class name="Hindware_Page_Test.Hindware_Page_Test006"/>
+            <class name="Hindware_Page_Test.Hindware_Page_Test007"/>
+            <class name="Hindware_Page_Test.Hindware_Page_Test008"/>
+            <class name="Hindware_Page_Test.Hindware_Page_Test009"/>
+            <class name="Hindware_Page_Test.Hindware_Page_Test010"/>
+            <class name="Hindware_Page_Test.Hindware_Page_Test011"/>
+            <class name="Hindware_Page_Test.Hindware_Page_Test012"/>
+            <class name="Hindware_Page_Test.Hindware_Page_Test013"/>
+            <class name="Hindware_Page_Test.Hindware_Page_Test014"/>
+            <class name="Hindware_Page_Test.Hindware_Page_Test015"/>
+            <class name="Hindware_Page_Test.Hindware_Page_Test016"/>
+            <class name="Hindware_Page_Test.Hindware_Page_Test017"/>
+
+
+
+
+            <class name="Home_page_Test.Homepage_Test003"/>
+            <class name="Home_page_Test.Homepage_Test004"/>
+            <class name="Home_page_Test.Homepage_Test005"/>
+            <class name="Home_page_Test.Homepage_Test006"/>
+
+
+
+            <class name="Lightning_Decor_Page_Test.Lightning_Decor_Page003"/>
+            <class name="Lightning_Decor_Page_Test.Lightning_Decor_Page004"/>
+            <class name="Lightning_Decor_Page_Test.Lightning_Decor_Page005"/>
+            <class name="Lightning_Decor_Page_Test.Lightning_Decor_Page006"/>
+            <class name="Lightning_Decor_Page_Test.Lightning_Decor_Page007"/>
+
+
+
+            <class  name="Living_Room_Page_Test.Living_Room_Page_Test003"/>
+            <class name="Living_Room_Page_Test.Living_Room_Page_Test004"/>
+            <class  name="Living_Room_Page_Test.Living_Room_Page_Test005"/>
+            <class name="Living_Room_Page_Test.Living_Room_Page_Test006"/>
+            <class  name="Living_Room_Page_Test.Living_Room_Page_Test007"/>
+            <class name="Living_Room_Page_Test.Living_Room_Page_Test008"/>
+
+
+            <class  name="Login_Test.Login_Test001"/>
+            <class name="Login_Test.Login_Test002"/>
+
+
+            <class name="Sofa_Page_Test.Sofa_Page_Test003"/>
+            <class name="Sofa_Page_Test.Sofa_Page_Test004"/>
+            <class name="Sofa_Page_Test.Sofa_Page_Test005"/>
+            <class name="Sofa_Page_Test.Sofa_Page_Test006"/>
+            <class name="Sofa_Page_Test.Sofa_Page_Test007"/>
+
+
+
+
+            <class name="Storage_Page_Test.Storage_Page_Test003"/>
+            <class name="Storage_Page_Test.Storage_Page_Test004"/>
+            <class name="Storage_Page_Test.Storage_Page_Test005"/>
+            <class name="Storage_Page_Test.Storage_Page_Test006"/>
+            <class name="Storage_Page_Test.Storage_Page_Test007"/>
+
+
+
+
+
+            <class name="Wall_Decor_Page_Test.Wall_Decor_Page_Test002"/>
+            <class name="Wall_Decor_Page_Test.Wall_Decor_Page_Test003"/>
+            <class name="Wall_Decor_Page_Test.Wall_Decor_Page_Test004"/>
+            <class name="Wall_Decor_Page_Test.Wall_Decor_Page_Test005"/>
+            <class name="Wall_Decor_Page_Test.Wall_Decor_Page_Test006"/>
+
+
+
+            <class name="Wardrobe_Page_Test.Wardrobe_Page_Test003"/>
+            <class name="Wardrobe_Page_Test.Wardrobe_Page_Test004"/>
+            <class name="Wardrobe_Page_Test.Wardrobe_Page_Test005"/>
+            <class name="Wardrobe_Page_Test.Wardrobe_Page_Test006"/>
+            <class name="Wardrobe_Page_Test.Wardrobe_Page_Test007"/>
+
+
+
+
+
+            <class name="Photo_Frames_Page_Test.Photo_Frames_Page_Test003"/>
+            <class name="Photo_Frames_Page_Test.Photo_Frames_Page_Test004"/>
+            <class name="Photo_Frames_Page_Test.Photo_Frames_Page_Test005"/>
+            <class name="Photo_Frames_Page_Test.Photo_Frames_Page_Test006"/>
+
+
+            <class name="Flower_Vases_Page_Test.Flower_Vases_Page_Test003"/>
+            <class name="Flower_Vases_Page_Test.Flower_Vases_Page_Test004"/>
+            <class name="Flower_Vases_Page_Test.Flower_Vases_Page_Test005"/>
+            <class name="Flower_Vases_Page_Test.Flower_Vases_Page_Test006"/>
+
+
+
+            <class name="Wall_Clock_Page_Test.Wall_Clock_Page_Test003"/>
+            <class name="Wall_Clock_Page_Test.Wall_Clock_Page_Test004"/>
+            <class name="Wall_Clock_Page_Test.Wall_Clock_Page_Test005"/>
+            <class name="Wall_Clock_Page_Test.Wall_Clock_Page_Test006"/>
+
+
+            <class name="Wall_Hooks_Test.Wall_Hooks_Test003"/>
+            <class name="Wall_Hooks_Test.Wall_Hooks_Test004"/>
+            <class name="Wall_Hooks_Test.Wall_Hooks_Test005"/>
+            <class name="Wall_Hooks_Test.Wall_Hooks_Test006"/>
+
+
+
+            <class name="Wall_Mirror_Test.Wall_Mirror_Test003"/>
+            <class name="Wall_Mirror_Test.Wall_Mirror_Test004"/>
+            <class name="Wall_Mirror_Test.Wall_Mirror_Test005"/>
+            <class name="Wall_Mirror_Test.Wall_Mirror_Test006"/>
+
+
+            <class name="Table_lamps_Test.Table_lamps_Test003"/>
+            <class name="Table_lamps_Test.Table_lamps_Test004"/>
+            <class name="Table_lamps_Test.Table_lamps_Test005"/>
+            <class name="Table_lamps_Test.Table_lamps_Test006"/>
+
+
+            <class name="Figurines_Page_Test.Figurines_Page_Test003"/>
+            <class name="Figurines_Page_Test.Figurines_Page_Test004"/>
+            <class name="Figurines_Page_Test.Figurines_Page_Test005"/>
+            <class name="Figurines_Page_Test.Figurines_Page_Test006"/>
+
+            <class name="Carpets_Page_Test.Carpets_Page_Test003"/>
+            <class name="Carpets_Page_Test.Carpets_Page_Test004"/>
+            <class name="Carpets_Page_Test.Carpets_Page_Test005"/>
+            <class name="Carpets_Page_Test.Carpets_Page_Test006"/>
+
+
+
+            <class name="Ceiling_Page_Test.Ceiling_Page_Test003"/>
+            <class name="Ceiling_Page_Test.Ceiling_Page_Test004"/>
+            <class name="Ceiling_Page_Test.Ceiling_Page_Test005"/>
+            <class name="Ceiling_Page_Test.Ceiling_Page_Test006"/>
+
+
+
+
+
+
+
+
+        </classes>
+            </test>
+            </suite>
